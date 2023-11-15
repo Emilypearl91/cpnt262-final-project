@@ -2,6 +2,8 @@
 
 *By Emily & Nicole*
 
+### **Priority is Dynamic Routes**
+
  - (Repo)[https://github.com/Emilypearl91/cpnt262-final-project]
  - (Website)[]
  
