@@ -10,3 +10,5 @@
 
 <HomeGallery></HomeGallery>
 
+<h3 class="m-20 h3">Here at crochet patterns our goal is to help you find your next crochet project by updating our catalogue with new patterns monthly. This month we wanted to show more cozy items such as plushies, pillows and blankets. Happy crocheting!
+</h3>
