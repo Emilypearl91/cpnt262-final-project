@@ -1,5 +1,6 @@
 import { error } from '@sveltejs/kit';
-import { patterns } from "../data.js";
+import { patterns }  from '/data.js';
+
 
 export function load({ params }) {
 	const post = patterns.find((post) => post.slug === params.slug);
@@ -9,4 +10,4 @@ export function load({ params }) {
 	return {
 		post
 	};
-}
+};
