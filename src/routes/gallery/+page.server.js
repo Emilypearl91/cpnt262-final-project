@@ -1,4 +1,4 @@
-import { patterns } from "data.js";
+import { patterns } from "./data.js";
 
 export function load() {
 	return {

@@ -1,10 +1,10 @@
 <script>
-	import {lemonPillow} from "../data";
-	import {cactusStuffie} from "../data";
-	import { deerPlushie } from "../data";
-	import { gingerBread } from "../data";
-	import { grannySquare } from "../data";
-	import { puffHat } from "../data";
+import {lemonPillow} from './galleryData'
+	import {cactusStuffie} from './galleryData'
+	import { deerPlushie } from './galleryData'
+	import { gingerBread } from './galleryData'
+	import { grannySquare } from './galleryData'
+	import { puffHat } from './galleryData'
 	
 </script>
 
