@@ -1,23 +1,10 @@
 <script>
-	export let data;
+	// export let data;
 </script>
 
-<div class="layout">
 	<main>
 		<slot />
 	</main>
-
-	<aside>
-		<h2>patterns</h2>
-		<ul>
-			{#each data.summaries as { slug, title }}
-				<li>
-					<a href="/gallery/{slug}">{title}</a>
-				</li>
-			{/each}
-		</ul>
-	</aside>
-</div>
 
 <style>
 	@media (min-width: 640px) {
